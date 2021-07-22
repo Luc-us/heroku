@@ -43,6 +43,6 @@ Pra poder hospedar o Bot na Heroku só seguir os passos:
 
 \10/ - vá no site da heroku, abra seu APP e depois abra a aba resoucers. Quando abrir desative o "web" e ative o "worker"
 
-( Pronto seu BOT está hospedado )
+( Pronto seu BOT/Site está hospedado )
 
 By: <Diluc#6020> <https://github.com/Diluc-san>

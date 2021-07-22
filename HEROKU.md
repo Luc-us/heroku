@@ -1,4 +1,4 @@
-Pra poder hospedar o Bot na Heroku só seguir os passos:
+Pra poder hospedar o Bot/Site na Heroku só seguir os passos:
 
         --= APP's =--
 
